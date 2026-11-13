@@ -568,6 +568,7 @@ for embedded systems (IoT in mind).
 
 * [Paho](http://www.eclipse.org/paho) - The Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for Machine‑to‑Machine (M-2-M) and Internet of Things (IoT).
 * [Smart.js ★ 487 ⧗ 0](https://github.com/cesanta/smart.js) - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces
+* [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter; decode escaped JSON, diff and convert JSON payloads such as IoT device messages in the browser.
 
 ## Voice
 
